@@ -1,1 +1,0 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/d16usodsce30shrc?svg=true)](https://ci.appveyor.com/project/Kate-IQA/api-ci-k5jsp)
