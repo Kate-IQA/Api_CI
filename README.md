@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/h7q2lx88gatbd9g1?svg=true)](https://ci.appveyor.com/project/Kate-IQA/api-ci-kaf03)
